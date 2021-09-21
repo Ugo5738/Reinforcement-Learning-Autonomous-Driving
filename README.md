@@ -1,7 +1,7 @@
 # Reinforcement-Learning-Autonomous-Driving
 
-This is a self-driving car in a simulated environment.
-Install the following dependencies:
+## This is a self-driving car in a simulated environment.
+## Install the following dependencies:
 
 - gym[box2d] 
 - pyglet==1.3.2
