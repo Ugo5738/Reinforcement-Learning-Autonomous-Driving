@@ -1,6 +1,6 @@
 # Reinforcement-Learning-Autonomous-Driving
 
-## This is a self-driving car in a simulated environment.
+This is a self-driving car in a Opengym simulated environment.
 ## Install the following dependencies:
 
 - gym[box2d] 
